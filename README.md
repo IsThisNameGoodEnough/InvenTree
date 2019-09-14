@@ -9,6 +9,27 @@ InvenTree is designed to be lightweight and easy to use for SME or hobbyist appl
 
 However, powerful business logic works in the background to ensure that stock tracking history is maintained, and users have ready access to stock level information.
 
+## Features
+- Robust inventory management via a clean web interface
+- Full transaction history for all stock actions
+- Ability to track via batch numbers or unique serial numbers
+- Unlimited stock locations, track from the wharehouse to the shelf
+- Customizable low inventory notifications
+- Track suppliers and create purchase orders
+- Manage part parent/child relationships and create build orders for assembled parts
+- Group and user permissions
+- API for integration with 3rd party applications
+- And more!
+
+## Screenshots
+example parts list
+
+<img src="https://inventree.github.io/assets/img/part/part_category.png" alt="InvenTree" width="552"/>
+
+example parts detail
+
+<img src="https://inventree.github.io/assets/img/part/part_overview.png" alt="InvenTree" width="552"/>
+
 ## User Documentation
 
 For InvenTree documentation, refer to the [user documentation](https://inventree.github.io).
